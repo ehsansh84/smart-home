@@ -6,3 +6,5 @@ aiocontextvars
 fastapi
 pydantic
 fastapi-cprofile
+uvicorn
+python-dotenv
